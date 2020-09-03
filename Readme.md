@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Максим Камаев](https://up.htmlacademy.ru/adaptive/20/user/1296181).
-* Наставник: `Александр Григорьев`.
+* Наставник: [Григорьев Александр](https://htmlacademy.ru/profile/fuckhtml).
 
 ---
 
